@@ -33,8 +33,3 @@ Sou estudante e membro voluntário do IEEE. Tenho um forte foco em desenvolvimen
 </div>
 
 ---
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-furtado-dev/ )
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
