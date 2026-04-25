@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Furtado de Sousa! 
+# Olá, eu sou o Lucas Furtado 
 
 Desenvolvedor Full-Stack | Entusiasta de IA e Cibersegurança | Robótica
 
